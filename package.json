@@ -1,0 +1,22 @@
+{
+  "name": "pidicomcore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tsinglung-Tseng/pidicom.git"
+  },
+  "author": "Tsinglung Tseng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tsinglung-Tseng/pidicom/issues"
+  },
+  "homepage": "https://github.com/Tsinglung-Tseng/pidicom#readme",
+  "dependencies": {
+    "three-js": "^79.0.0"
+  }
+}
